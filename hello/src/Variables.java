@@ -9,7 +9,7 @@ public class Variables {
         System.out.println(name + "1223" + 시간 + grade);
 
         double d = 3.1451651651216516;
-        float f = 3.144654541851561F; // 뒤에 F붙이기
+        float f = 3.144654541851561F; // 뒤에 F붙이기~~
         System.out.println(d);
         System.out.println(f);
 
