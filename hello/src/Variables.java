@@ -16,7 +16,7 @@ public class Variables {
         long l = 1_000_000_000_000l;
         System.out.println(l);
         
-        System.out.println(score);
+        System.out.println(score);  // 이상하네
         
     }
 }
